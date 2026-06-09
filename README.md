@@ -3,15 +3,15 @@
 This repository contains the Verilog assignments that I completed as part of my internship training. Each assignment includes the design file, testbench, simulation output, and a brief description of the implementation.
 
 ## Day 1
-* Ripple Carry Adder
-* BCD Adder
+- [Ripple Carry Adder](day1/Ripple_Carry_Adder)
+- [BCD Adder](day1/BCD_Adder)
 
 ## Day 2
-* D Flip-Flop
-* 4x2 Encoder
-* SR Flip-Flop
-* Universal Shift Register
-
+- [D Flip-Flop](day2/d_ff)
+- [4x2 Encoder](day2/encoder_4x2)
+- [SR Flip-Flop](day2/sr_ff)
+- [Universal Shift Register](day2/univ_shift_reg)
+  
 ## Tools Used
 * Verilog HDL
 * Vivado Simulator
