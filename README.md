@@ -19,6 +19,10 @@ This repository contains the Verilog assignments that I completed as part of my 
 * [Sequence Detector (1110)](day3/seq_detect_1110)
 * [FIFO Use Case](day3/fifo_use_case)
 
+## Day 4
+
+* [Block Memory Generator (8x8)](day4/block_mem_gen)
+
 ## Tools Used
 
 * Verilog HDL
