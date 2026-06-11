@@ -8,7 +8,7 @@ Files:
 [Testbench File](tb/block_mem_gen_tb.v)
 
 Simulation Output:
-![Block Memory Generator Waveform](block_memory_generator_waveform.png)
+![Block Memory Generator Waveform](block_mem_generator.png)
 
 Features:
 * 8 memory locations
