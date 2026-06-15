@@ -4,8 +4,8 @@ About:
 This project implements a BCD Adder in Verilog. The adder takes two 4-bit BCD digits and a carry input, producing a valid BCD sum and carry output using ripple carry adders and correction logic.
 
 Files:
-* [Design File](design/bcd.v)
-* [Testbench File](tb/bcd_tb.sv)
+* [Design File](design/top.v)
+* [Testbench File](tb/tb_top.sv)
 
 Simulation Output
 
