@@ -1,0 +1,18 @@
+class transaction;
+
+  rand bit wren;
+  rand bit rden;
+  rand bit [7:0] datain;
+
+  bit full;
+  bit empty;
+  bit [7:0] dataout;
+
+  constraint c1 {wren dist {0:=2, 1:=8};}
+
+  function void display(string s);
+    $display("[%s] wren=%0b rden=%0b datain=%0d dataout=%0d full=%0b empty=%0b",
+              s, wren, rden, datain, dataout, full, empty);
+  endfunction
+
+endclass
