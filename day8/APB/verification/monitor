@@ -24,4 +24,4 @@ class monitor;
             end
         end
     endtask
-endclass#
+endclass
