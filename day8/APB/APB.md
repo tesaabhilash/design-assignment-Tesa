@@ -47,9 +47,17 @@ When `PRESETN` is asserted low:
 
 ## Files
 
-* `apb_slave.v` – APB slave design
-* `apb_slave_tb.v` – Testbench
-* Simulation waveforms and output screenshots
+* (design.sv) – APB slave design
+* (verification/tb.sv)– Testbench
+
+## Simulation Waveform
+
+The APB slave was verified using a testbench in Vivado Simulator.
+
+![APB Slave Waveform](apb_waveform.jpg)
+
+The waveform demonstrates successful APB read and write transactions, correct `PREADY` assertion during the access phase, and proper data storage and retrieval from the internal memory.
+
 
 ## Tools Used
 
