@@ -47,8 +47,8 @@ When `PRESETN` is asserted low:
 
 ## Files
 
-* (design.sv) – APB slave design
-* (verification/tb.sv)– Testbench
+* `design.sv` – APB slave design
+* `verification/testbench.sv`– Testbench
 
 ## Simulation Waveform
 
