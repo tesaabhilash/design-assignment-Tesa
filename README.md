@@ -23,6 +23,23 @@ This repository contains the Verilog assignments that I completed as part of my 
 
 * [Block Memory Generator (8x8)](day4/block_mem_gen)
 
+## Day 5
+
+* [BCD Adder Interface](day5/BCD_Adder_interface)
+* [FIFO Interface](day5/fifo_interface)
+
+## Day 6
+
+* [FIFO Transaction](day6/fifo_transaction)
+
+## Day 8
+
+* [APB](day8/APB)
+
+## Final Project
+
+* [AXI Crossbar](project)
+
 ## Tools Used
 
 * Verilog HDL
